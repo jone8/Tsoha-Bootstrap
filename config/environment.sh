@@ -1,4 +1,5 @@
 ﻿#!/bin/bash
+#testi
 
 # korvaa tämä omalla käyttäjätunnuksellasi
 USERNAME="jmtuhkan"
